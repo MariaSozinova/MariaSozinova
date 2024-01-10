@@ -1,4 +1,4 @@
-![Header](https://github.com/MariaSozinova/MariaSozinova/blob/main/assets/MS_DA.png)
+Header
 
 About
 
