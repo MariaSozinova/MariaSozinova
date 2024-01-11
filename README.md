@@ -1,6 +1,6 @@
 ![Header](https://github.com/MariaSozinova/MariaSozinova/blob/main/assets/MS_DA_1.png)
 
-About
+## I am Data Analyst with Strong Background in Finance and Business
 
 Languages and Skills
 
