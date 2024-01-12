@@ -22,4 +22,6 @@
 
 ### Contacts
 [![Linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/maria-sozinova)
-[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=EA4035)](<moon2512@gmail.com">)
+[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=EA4035)](mailto:moon2512@gmail.com)
+
+ 
