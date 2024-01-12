@@ -21,6 +21,5 @@
 )
 
 ### Contacts
-[![Linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2(www.linkedin.com/in/maria-sozinova)
-)]
-[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=EA4035)](href="moon2512@gmail.com">moon2512@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](www.linkedin.com/in/maria-sozinova)
+[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=EA4035)](href="moon2512@gmail.com")
